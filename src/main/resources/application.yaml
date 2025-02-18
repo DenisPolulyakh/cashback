@@ -1,7 +1,7 @@
 spring:
   datasource:
     url: jdbc:postgresql://cashdb:5438/cashdb
-    username: cashdb
+    username: cash
     password: money7
   jpa:
     hibernate:
