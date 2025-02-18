@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:postgresql://cashdb:5438/cashdb
+    url: jdbc:postgresql://cashdb:5432/cashdb
     username: cash
     password: money7
   jpa:
